@@ -40,3 +40,8 @@ Anyway: you need to measure the length of the wires with the usb plug hanging ou
 <img width="200" src="/images/Arduino.jpg"/> <img width="200" src="/images/JstXH.jpg"/>
 
 <img width="200" src="/images/UsbMale.jpg"/><img width="200" src="/images/CherryMX.jpg"/>
+
+## Before flashing
+- Setup row-outputs in top
+- Setup col-inputs in top
+- Setup keys in setup function
