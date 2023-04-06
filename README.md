@@ -14,6 +14,10 @@ Detached
 
 <img width="400" src="/images/detached.jpg"/>
 
+3D Model
+
+<img width="600" src="/images/Model.jpg"/>
+
 ## Connections:
 
 <img width="600" src="/images/Scheme.jpg"/>
