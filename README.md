@@ -1,7 +1,7 @@
 # Valve Index Macro Keyboard
 Arduino R3 Beetle (AtMega32U4) based macro keyboard for front panel of Valve Index with 2 additional sockets.
 
-You can use 2 sockets for another devices like eye trackers. Also 1 of socket can be connected to plate for extra-input.
+You can use 2 sockets for another devices like eye trackers. Also 1 socket can be connected to plate for extra-input.
 
 ## Images
 Connected
